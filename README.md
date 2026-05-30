@@ -34,13 +34,9 @@ Toastmasters meetings run on time, preparation, and people showing up ready. Yet
 | Name               | Role                     | Email | GitHub |
 |--------------------|--------------------------|-------|--------|
 | [Vikram Arunkumar] | Project Lead & Developer | vikram.arunkumar@sjsu.edu | @VikramArunkumar(https://github.com/VikramArunkumar) |
-| [Sowmika]          | AI Agent Engineer        | [email@university.edu] | [@github-username](https://github.com/username) |
+| [Member Name 2]    | [Role]                   | [email@university.edu] | [@github-username](https://github.com/username) |
 | [Member Name 3]    | [Role]                   | [email@university.edu] | [@github-username](https://github.com/username) |
 | [Member Name 4]    | [Role]                   | [email@university.edu] | [@github-username](https://github.com/username) |
-
-## Project Kanban Board
-
-**🔗 Public Board:** [View our Kanban Board](https://github.com/orgs/ai-ml-club-sjsu/projects/10)
 
 ## Repository Structure
 
